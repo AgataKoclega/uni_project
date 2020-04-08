@@ -1,0 +1,31 @@
+﻿  main_game.cpp
+\\mac\home\desktop\sfmlcp3\sfmlcp3\sfml game\main_game.cpp(169): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+\\mac\home\desktop\sfmlcp3\sfmlcp3\sfml game\main_game.cpp(169): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+\\mac\home\desktop\sfmlcp3\sfmlcp3\sfml game\main_game.cpp(171): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+\\mac\home\desktop\sfmlcp3\sfmlcp3\sfml game\main_game.cpp(171): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+\\mac\home\desktop\sfmlcp3\sfmlcp3\sfml game\main_game.cpp(260): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  sfml game.vcxproj -> \\Mac\Home\Desktop\sfmlCP3\sfmlCP3\Debug\sfml game.exe
